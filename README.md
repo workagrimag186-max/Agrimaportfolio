@@ -9,7 +9,7 @@ https://agrimaportfolio.vercel.app/
 ---
 
 ## 👨‍💻 About Me
-Hi, I'm **Mohar Gorai**.
+Hi, I'm **Agrima Gupta**.
 I'm a B.Tech IT student at VIT and a passionate developer interested in:
 
 * Software Development
@@ -38,7 +38,7 @@ This portfolio was built entirely from scratch using:
 
 ## 📂 Project Structure
 ```text
-MoharXD.github.io/
+PortfolioAgrima
 │
 ├── index.html        # Home Page
 ├── about.html        # Background & Skills
